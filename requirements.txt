@@ -1,0 +1,5 @@
+numpy == 1.21.2
+ncon == 1.0.0
+pytest == 6.2.5
+matplotlib == 3.4.3
+cirq == 0.12.0
