@@ -2,3 +2,5 @@
 
 ****************************************************
 Glowjaw: A full density matrix quantum simulator.
+
+Developed together with Leonardo Guerini.
